@@ -1,6 +1,7 @@
 # Cascading Detection
+[![DOI](https://zenodo.org/badge/18575/jg-you/cascading_detection.svg)](https://zenodo.org/badge/latestdoi/18575/jg-you/cascading_detection)
 
-Python 3 implementation of the cascading detection algorithm.
+Python 3 implementation of the cascading detection algorithm presented in 
 
 [Unveiling Hidden Communities Through Cascading Detection on Network Structures](http://arxiv.org/abs/1211.1364)
 
