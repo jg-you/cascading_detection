@@ -1,0 +1,4 @@
+temporary_dir : "/home/USER/WORKING_DIR/"
+result_dir : "/home/USER/WORKING_DIR/RESULTS"
+cpp_compiler : "g++"
+compiler_flag : "-o3"

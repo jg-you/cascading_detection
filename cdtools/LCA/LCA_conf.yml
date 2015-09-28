@@ -1,0 +1,4 @@
+ignore_singleton : False
+min_threshold : 0.00
+max_threshold : 0.99
+threshold_increments : 0.01

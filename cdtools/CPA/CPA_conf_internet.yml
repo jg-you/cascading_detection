@@ -1,0 +1,4 @@
+search_time : -1                    # <0 indicates unbounded time.
+license : "license/license.txt"     # relative path to the license file.
+binary : "CFinder_commandline64"    # selected CFinder binary.
+extensive_component_ratio : 0.25     # extensive component ratio.
