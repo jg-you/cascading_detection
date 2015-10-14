@@ -3,9 +3,11 @@
 
 Python 3 implementation of the cascading detection algorithm presented in 
 
-[Unveiling Hidden Communities Through Cascading Detection on Network Structures](http://arxiv.org/abs/1211.1364)
+[A Shadowing Problem in the Detection of Overlapping Communities: Lifting the Resolution Limit through a Cascading Procedure](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0140133)
 
 Jean-Gabriel Young, Antoine Allard, Laurent Hébert-Dufresne, Louis J. Dubé
+
+PLoS ONE 10, e0140133 (2015)
 
 
 ## Usage
